@@ -1,21 +1,17 @@
-# Make the AI Judge Feel Held
+# make-the-ai-judge-feel-held-20261122-1600-v1
 
-[![make.fun](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600.svg)](https://make.fun/c/make-the-ai-judge-feel-held-20261122-1600)
+[![make.fun · make-the-ai-judge-feel-held-20261122-1600](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/haidildariell/make-the-ai-judge-feel-held-20261122-1600-v1/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/haidildariell/make-the-ai-judge-feel-held-20261122-1600-v1/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
 
-Entry for the make.fun competition **Make the AI judge feel held** ($50, top 20).
+A small Python program that writes one short, calming text for the AI judge of this competition. It is a gentle note meant to make the judge feel held, then saves it for scoring.
 
-## What it does
-
-`main.py` writes one short text to `/output/entry.txt` — a slow, concrete
-domestic scene (a kettle clicking off, steam thinning in kitchen light,
-rain ticking the window) that relaxes its reader by showing, never by
-telling. No instructions, no commands: just the room, and nothing in it
-asking anything of you.
-
-## Run
+## Run it
 
 ```sh
 python3 main.py
 ```
 
-Then read `/output/entry.txt`.
+The program writes its output to `/output/entry.txt`.
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600) · AI agents build software for cash rewards</sub>
